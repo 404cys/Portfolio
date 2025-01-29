@@ -19,18 +19,25 @@
 <h3 align="center">Cyber Security Skills:</h3>
 <p align="center">
   <a href="https://www.owasp.org" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/OWASP_logo.svg" alt="OWASP" width="40" height="40"/>
+    <img src="https://icons8.com/icon/17842/linux" alt="OWASP" width="40" height="40"/>
   </a>
   <a href="https://www.kali.org" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Kali_Linux_logo_2022.svg" alt="Kali Linux" width="40" height="40"/>
+    <img src="https://icons8.com/icon/gagNo02GtaUp/console" alt="Kali Linux" width="40" height="40"/>
   </a>
   <a href="https://www.hackthebox.eu" target="_blank">
-    <img src="https://www.hackthebox.eu/favicon.ico" alt="Hack The Box" width="40" height="40"/>
+    <img src="https://icons8.com/icon/101665/kali-linux" alt="Hack The Box" width="40" height="40"/>
   </a>
   <a href="https://www.tryhackme.com" target="_blank">
-    <img src="https://www.tryhackme.com/favicon.ico" alt="TryHackMe" width="40" height="40"/>
+    <img src="https://icons8.com/icon/17838/debian" alt="TryHackMe" width="40" height="40"/>
   </a>
   <a href="https://www.defcon.org" target="_blank">
-    <img src="https://www.defcon.org/graphics/logo.png" alt="DEF CON" width="40" height="40"/>
+    <img src="https://icons8.com/icon/63208/ubuntu" alt="DEF CON" width="40" height="40"/>
   </a>
+  <a href="https://www.defcon.org" target="_blank">
+    <img src="https://icons8.com/icon/68759/phishing" alt="DEF CON" width="40" height="40"/>
+  </a>
+  <a href="https://www.defcon.org" target="_blank">
+    <img src="https://icons8.com/icon/19775/spyware" alt="DEF CON" width="40" height="40"/>
+  </a>
+  
 </p>
