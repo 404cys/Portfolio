@@ -37,7 +37,7 @@
     <img src="https://icons8.com/icon/68759/phishing" alt="DEF CON" width="40" height="40"/>
   </a>
   <a href="https://www.defcon.org" target="_blank">
-    <img src="https://icons8.com/icon/19775/spyware" alt="DEF CON" width="40" height="40"/>
+    <img src="[https://icons8.com/icon/19775/spyware](https://img.icons8.com/?size=100&id=19775&format=png&color=000000)" alt="DEF CON" width="40" height="40"/>
   </a>
   
 </p>
