@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abdulrahman</h1>
-<h3 align="center">Front-End Developer sometimes <br> Back-End Developer sometimes <br> some skills in cyber security</h3>
+<h3 align="center">Front-End Developer <br> Back-End Developer sometimes <br> some skills in cyber security</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
