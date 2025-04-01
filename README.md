@@ -2,7 +2,7 @@
 
 ## 🌐 Web & Flutter Developer | 🔒 Cybersecurity Enthusiast  
 
-Hi there! I'm Abdulrahman, a passionate Web & Flutter Developer with experience in building mobile and web applications. I also have a keen interest in **cybersecurity**, focusing on secure coding practices and application security. My goal is to develop innovative and secure solutions using the latest technologies.  
+Hi there! I'm Abdulrahman, a passionate Web & Flutter Developer with experience in building mobile and web applications. I also have a keen interest in **cybersecurity**, focusing on secure coding practices and application security. 
 
 ---
 
@@ -11,16 +11,12 @@ Hi there! I'm Abdulrahman, a passionate Web & Flutter Developer with experience 
 🔹 **Web Development**: HTML, CSS,tailwind css , scss, JavaScript, React, Nextjs, Node.js, express , axios , postman ,django <br>
 🔹 **Mobile Development**: Flutter, Dart  
 🔹 **Databases**: Firebase, MySQL , postgresql, mongodb  
-🔹 **Cybersecurity**: Bug detector , Malware Analysis 
+🔹 **Cybersecurity**: Bug detector , Malware Analysis <br>
 🔹 **Other Tools**: Git, Docker, Linux  
 
 ---
 
-## 🚀 Projects  
-
-🔹 **[Project Name 1](#)** – Short description of the project.  
-🔹 **[Project Name 2](#)** – Short description of the project.  
-🔹 **[Project Name 3](#)** – Short description of the project.  
+ 
 
 
 
