@@ -8,10 +8,10 @@ Hi there! I'm Abdulrahman, a passionate Web & Flutter Developer with experience 
 
 ## 📌 Skills  
 
-🔹 **Web Development**: HTML, CSS, JavaScript, React, Node.js  
+🔹 **Web Development**: HTML, CSS,tailwind css , scss, JavaScript, React, Nextjs, Node.js, express , axios , postman  
 🔹 **Mobile Development**: Flutter, Dart  
-🔹 **Databases**: Firebase, MySQL  
-🔹 **Cybersecurity**: Penetration Testing, Encryption, Application Security  
+🔹 **Databases**: Firebase, MySQL , postgresql, mongodb  
+🔹 **Cybersecurity**: Bug detector
 🔹 **Other Tools**: Git, Docker, Linux  
 
 ---
